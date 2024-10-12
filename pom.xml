@@ -74,7 +74,7 @@
                                         <limit>
                                             <counter>LINE</counter>
                                             <value>COVEREDRATIO</value>
-                                            <minimum>0.85</minimum> // 85% o 95% es limite de humbral (cov) para dejar correr el programa como medidas de seguridad
+                                            <minimum>0.85</minimum> //85% o 95% es limite de humbral (cov) para dejar correr el programa como medidas de seguridad
                                         </limit>
                                     </limits>
                                 </rule>
