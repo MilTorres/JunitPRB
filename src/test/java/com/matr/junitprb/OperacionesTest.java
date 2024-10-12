@@ -147,7 +147,7 @@ public class OperacionesTest {
         List<String> lista = ope.converitAString(list);
         System.out.println(lista);
 
-       // assertEquals(listring,lista);
+       //assertEquals(listring,lista);
         assertEquals(List.of("1", "2", "3", "4", "5", "6", "7", "8", "9","10"),lista);
 
 
